@@ -1,0 +1,6 @@
+main
+*.o
+*.exe
+Makefile
+main-debug
+.ccls-cache/
