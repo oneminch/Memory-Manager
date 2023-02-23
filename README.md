@@ -1,8 +1,8 @@
-# mem-manager
+# Memory Manager
 
 A memory manager implemented in C++ (malloc &amp; free)
 
-[![Run on Repl.it](https://replit.com/badge/github/oneminch/memory-manager)](https://replit.com/@oneminch/os-memory-manager?v=1#main.cpp)
+[![Run on Repl.it](https://replit.com/badge/)](https://replit.com/@oneminch/os-memory-manager?v=1#mem-manager.cpp)
 
 **Example Output**
 
